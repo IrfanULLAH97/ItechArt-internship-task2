@@ -6,7 +6,7 @@
 
 
 
-### To execute the codey use below given terraform commands:
+### To execute the code use below given terraform commands:
 ```
 terraform init
 terraform fmt
